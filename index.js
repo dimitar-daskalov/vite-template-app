@@ -20,7 +20,7 @@ async function main() {
 
   console.log(chalk.magenta("\n🛠 Setting up your project...\n"));
 
-  const repoUrl = "git@github.com:LimeChain/dim-vite-template.git";
+  const repoUrl = "https://github.com/dimitar-daskalov/vite-template-app.git";
 
   const spinner = ora("📦 Cloning starter template...").start();
 

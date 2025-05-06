@@ -5,6 +5,7 @@
   "description": "A CLI to scaffold Vite + React + Tailwind projects with Yarn and Corepack managed installs.",
   "type": "module",
   "bin": "./index.js",
+  "author": "Dimitar Daskalov",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
